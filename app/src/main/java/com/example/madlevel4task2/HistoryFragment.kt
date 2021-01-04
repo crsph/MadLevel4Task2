@@ -51,9 +51,9 @@ class HistoryFragment : Fragment() {
         historyAdapter.notifyDataSetChanged()
     }
 
-    fun dataChanged() {
-        println("Hello")
-        historyAdapter.notifyDataSetChanged()
-        println("Goodbye")
-    }
+//    fun dataChanged() {
+//        println("Hello")
+//        historyAdapter.notifyDataSetChanged()
+//        println("Goodbye")
+//    }
 }
